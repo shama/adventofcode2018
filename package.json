@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "start": "budo build/DayOne.js:bundle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jetbrains/kotlinc-js-api": "^1.2.11",
+    "kotlin": "^1.3.10"
+  },
+  "devDependencies": {
+    "budo": "^11.5.0"
+  }
+}
