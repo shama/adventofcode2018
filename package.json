@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "node build.js",
-    "start": "budo build/DayTwo.js:bundle.js"
+    "start": "budo build/DayThree.js:bundle.js"
   },
   "author": "",
   "license": "ISC",
